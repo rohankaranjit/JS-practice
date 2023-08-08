@@ -1,0 +1,10 @@
+function randomName(names) {
+    var randomPosition = Math.floor(Math.random() * Payingname.length);
+
+    var NameRandom = Payingname[randomPosition];
+return NameRandom + " is going to buy lunch today."
+}
+
+var Payingname = ['Rohan' , 'Kamal' , 'Sarad', 'Manish' , 'Nayan']
+
+randomName(Payingname);
