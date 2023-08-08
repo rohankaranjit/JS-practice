@@ -1,0 +1,23 @@
+var a = [];
+var count = 1;
+
+function fizzBuzz(){
+    if (count%3 === 0 && count% 5 === 0){
+        a.push("fizzBuzz")
+    }
+    else if (count%3 === 0){
+        a.push("Fizz");
+    }
+    else if(count%5 === 0){
+        a.push("Buzz");
+    }
+    else{
+
+    a.push(count);
+    
+    }
+    count=count+1;
+    console.log(a);
+    
+    
+}
