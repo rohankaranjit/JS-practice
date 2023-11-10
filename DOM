@@ -29,5 +29,4 @@ document.querySelector("buttton").style.backgroundColor="yellow";
 document.querySelector("h1").classList.toggle("fontHello");
 </script>
   </body>
-
 </html>
