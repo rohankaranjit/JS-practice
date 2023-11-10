@@ -14,7 +14,6 @@ h1 {
 </style>
   <body>
     <h1>Hello</h1>
-
     <input type="checkbox">
 
     <button style=":active color:red;">Click Me</button>
