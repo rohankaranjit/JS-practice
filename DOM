@@ -33,6 +33,7 @@ document.querySelector("buttton").style.backgroundColor="yellow";
     document.querySelector("Second")="Rohan KAranjit";
 document.querySelector("h1").classList.toggle("fontHello");
 </script>
+
   </body>
 
 </html>
