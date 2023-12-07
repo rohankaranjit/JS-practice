@@ -27,6 +27,7 @@ h1 {
       <li class="list">Second</li>
       <li class="list">Third</li>
     </ul>
+
 <script>
 document.querySelector("buttton").style.backgroundColor="yellow";
     document.querySelector("Second")="Rohan KAranjit";
