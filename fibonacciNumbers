@@ -15,8 +15,7 @@ function fibonacciNumber(n){
   }
 return output;
 
- 
- 
+  
 
   }
 
