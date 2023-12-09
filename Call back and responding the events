@@ -10,4 +10,3 @@ function AnotherAddEventListener(typeOfEvent,callback) {
             
         }
     }
-
