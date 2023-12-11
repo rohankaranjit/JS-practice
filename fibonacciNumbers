@@ -3,7 +3,7 @@ function fibonacciNumber(n){
 
 
 
-var output=[];
+      var output=[];
       if(n===1){
         output=[0];
       }
