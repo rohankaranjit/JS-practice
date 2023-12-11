@@ -1,7 +1,6 @@
 function fibonacciNumber(n){      
 
 
-
       var output=[];
       if(n===1){
         output=[0];
