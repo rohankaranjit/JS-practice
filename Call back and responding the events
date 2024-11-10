@@ -1,6 +1,4 @@
 
-
-
 function AnotherAddEventListener(typeOfEvent,callback) {
             var eventThatHappened={
             eventType:"keypress",
